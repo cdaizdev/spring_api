@@ -11,5 +11,5 @@ API RESTful básica desarrollada con **Spring Boot**.
 Clona el repositorio y entra en el proyecto:
 
 ```bash
-git clone https://github.com/tuusuario/spring_api.git
+git clone https://github.com/cdaizdev/spring_api.git
 cd spring_api
